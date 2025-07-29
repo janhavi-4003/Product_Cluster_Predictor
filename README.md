@@ -1,3 +1,11 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b75645e-f40e-43d8-b1d8-2498a41fc6c6" />
+
+
+
+
+
+
+
 # 🛍 Project Title: Product Cluster Predictor
 
 # 📌 Description:
